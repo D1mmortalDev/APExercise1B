@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APExercise1B</string>
+    <string name="product_name">Black Full Rim Round Eyeglasses</string>
+    <string name="product_price_display">Product Price:</string>
+    <string name="product_price">$98</string>
+    <string name="product_desc_display">Product Description</string>
+    <string name="btn_add_cart">Add to Cart</string>
+    <string name="product_reviews_display">Product Reviews</string>
+    <string name="product_reviews">No reviews yet</string>
+    <string name="product_description">Product Id:150468 Model No. LA E14341AF Frame Size: Narrow Frame Width: 133 mm Frame Dimensions:50-20-145 Frame colour:Black</string>
+</resources>
